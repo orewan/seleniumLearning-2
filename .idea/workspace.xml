@@ -27,56 +27,90 @@
     <session id="992367311">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="3" />
-          <entry key="java" value="1051" />
+          <entry key="java" value="2198" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="1051" />
+          <entry key="JAVA" value="2198" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/EbayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="18" selection-start-line="17" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/LoginEbayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/EbayTest.java">
+        <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="301">
+              <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+                <element signature="e#1427#1428#0" expanded="true" />
+                <element signature="e#1507#1508#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
+                <element signature="e#2114#2115#0" expanded="true" />
+                <element signature="e#2172#2173#0" expanded="true" />
+                <element signature="e#2636#2637#0" expanded="true" />
+                <element signature="e#2698#2699#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -392,15 +426,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/secondSeleniumProjectWithGetHub/build.gradle" />
+        <option value="$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/LoginEbayTest.java" />
         <option value="$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/EbayTest.java" />
+        <option value="$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/TestBase.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="60" />
-    <option name="width" value="3150" />
-    <option name="height" value="1510" />
+    <option name="x" value="1610" />
+    <option name="width" value="1603" />
+    <option name="height" value="1738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -408,9 +443,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -443,7 +478,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535286542894" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535369674349" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -467,7 +502,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.EbayTest.setUp">
     <configuration name="EbayTest.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="secondSeleniumProjectWithGetHub_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -478,9 +513,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginEbayTest.ebayLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secondSeleniumProjectWithGetHub_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginEbayTest" />
+      <option name="METHOD_NAME" value="ebayLoginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EbayTest.setUp" />
+      <item itemvalue="JUnit.LoginEbayTest.ebayLoginTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.EbayTest.setUp" />
+        <item itemvalue="JUnit.LoginEbayTest.ebayLoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -498,34 +548,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 13h 35m 26s.xml">
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 11h 36m 02s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 11h 55m 52s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 11h 57m 48s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 12h 15m 41s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EbayTest_setUp - 2018.08.27 at 12h 17m 27s.xml">
       <configuration name="EbayTest.setUp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 41m 41s.xml">
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 12h 21m 36s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 12h 25m 01s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginEbayTest_ebayLoginTest - 2018.08.27 at 12h 26m 48s.xml">
+      <configuration name="LoginEbayTest.ebayLoginTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EbayTest_setUp - 2018.08.27 at 12h 29m 45s.xml">
       <configuration name="EbayTest.setUp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 42m 36s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 49m 19s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 50m 35s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 51m 45s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 14h 58m 59s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 15h 02m 04s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 15h 02m 40s.xml">
-      <configuration name="EbayTest.setUp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EbayTest_setUp - 2018.08.26 at 15h 05m 32s.xml">
+    <history-entry file="EbayTest_setUp - 2018.08.27 at 12h 31m 33s.xml">
       <configuration name="EbayTest.setUp" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -533,34 +583,34 @@
     <frame x="-6" y="-6" width="1293" height="702" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14412956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924694" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.32924694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.32924694" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -569,19 +619,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleniumLearning-1/secondSeleniumProjectWithGitHub/src/test/java/EbayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/EbayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="136">
+          <caret line="17" column="18" selection-start-line="17" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/LoginEbayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondSeleniumProjectWithGetHub/src/test/java/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#2114#2115#0" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2636#2637#0" expanded="true" />
+            <element signature="e#2698#2699#0" expanded="true" />
           </folding>
         </state>
       </provider>
