@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest_main.iml" group="TrelloSeleniumTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloSeleniumTest_test.iml" group="TrelloSeleniumTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_main.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_main.iml" group="secondSeleniumProjectWithGetHub" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_test.iml" filepath="$PROJECT_DIR$/.idea/modules/secondSeleniumProjectWithGetHub_test.iml" group="secondSeleniumProjectWithGetHub" />
