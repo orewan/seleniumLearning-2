@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="secondSeleniumProjectWithGetHub_main" target="1.8" />
       <module name="secondSeleniumProjectWithGetHub_test" target="1.8" />
+      <module name="TrelloSeleniumTest_main" target="1.8" />
+      <module name="TrelloSeleniumTest_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
